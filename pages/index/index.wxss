@@ -1,0 +1,21 @@
+/* pages/index/index.wxss */
+.page{
+  margin: 0rpx,50rpx,50rpx,50rpx;
+  text-align: center;
+}
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  font-size: 70rpx;
+}
+
+.nav1{
+  flex: 1;
+  background: red;
+}
+
+.nav2{
+  flex: 1;
+  background: yellow;
+}
